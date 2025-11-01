@@ -25,8 +25,3 @@
 - 🧾 Plantillas adaptables para documentos académicos, resoluciones y guías técnicas.
 - 🌐 Mejora continua de la experiencia de usuario en sitios y aplicaciones educativas.
 - 🤝 Colaboración y creación de recursos compartidos para comunidades educativas.
-
-📬 Contacto¿Tienes sugerencias o deseas colaborar?
-📧 info@multiserviciosymaquinariajc.com
-🌐 Sitio web oficial
-📱 WhatsApp📝 LicenciaEste proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más detalles.🤝 CréditosDesarrollado por Jonathan, educador y diseñador web especializado en proyectos institucionales, branding ecológico y accesibilidad digital.¿Quieres que te ayude a crear una versión en inglés, una landing page para GitHub Pages o una plantilla institucional para otros proyectos? Estoy listo para ayudarte a escalarlo.
