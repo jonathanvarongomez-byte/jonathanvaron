@@ -1,4 +1,7 @@
-# Jonathan Varón Gómez
+# 👋 ¡Hola!, soy Jonathan Varón Gómez
+🎓 **Educador y líder institucional** con una pasión por modernizar las prácticas educativas a través del diseño y desarrollo web y la tecnología accesible. Me dedico a empoderar a colegas mediante mentorías, talleres y recursos colaborativos que combinan claridad, rigor y creatividad.
+
+---
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -6,38 +9,23 @@
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue)](#)
 [![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen)](#)
 
-Bienvenido al repositorio oficial del sitio web de **Jonathan Varón Gómez**, docente y desarrollador web. Este proyecto busca ofrecer una experiencia digital profesional, accesible y alineada con los valores institucionales.
+## 🛠️ Habilidades Técnicas
+
+- 💻 **Diseño Web Moderno**: HTML semántico, CSS avanzado (incluyendo `clamp()`, `min()`, `max()`), diseño fluido y responsive, accesibilidad.
+- 🧩 **Diseño de Componentes Reutilizables**: Interfaces escalables y mantenibles con enfoque en usabilidad y consistencia.
+- 🗃️ **SQL y Validación de Formularios**: Consultas robustas, manejo de errores, integridad relacional y retroalimentación clara para usuarios.
+- 🧑‍🏫 **Mentoría Técnica y Pedagógica**: Explicaciones accesibles de JavaScript y SQL para principiantes, con énfasis en patrones reutilizables y buenas prácticas.
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## 📚 Intereses
 
-- HTML5 + CSS3 con diseño responsivo
-- JavaScript modular y accesible
-- SEO técnico y estructura semántica optimizada
-- Buenas prácticas de accesibilidad (WCAG)
+- 🌱 Educación moderna, inclusiva y sostenible.
+- 🧠 Gamificación y aprendizaje basado en retos.
+- 🧾 Plantillas adaptables para documentos académicos, resoluciones y guías técnicas.
+- 🌐 Mejora continua de la experiencia de usuario en sitios y aplicaciones educativas.
+- 🤝 Colaboración y creación de recursos compartidos para comunidades educativas.
 
----
-
-## 📁 Estructura del repositorio
-📦 multiservicios-web ├── 📁 assets │   ├── 📁 images │   └── 📁 icons ├── 📁 css │   └── styles.css ├── 📁 js │   └── main.js ├── 📄 index.html └── 📄 README.md
-
----
-
-## 🚀 Despliegue local
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/multiservicios-web.git
-
-
-- Abre el archivo index.html en tu navegador
-- Personaliza los contenidos desde /css/styles.css y /js/main.js
-✨ Características destacadas- Página de bienvenida clara y persuasiva
-- Sección de servicios con descripciones técnicas y comerciales
-- Formulario de contacto validado y funcional
-- Diseño limpio, moderno y alineado con la identidad corporativa
-- Preparado para futuras integraciones (CRM, formularios dinámicos, etc.)
 📬 Contacto¿Tienes sugerencias o deseas colaborar?
 📧 info@multiserviciosymaquinariajc.com
 🌐 Sitio web oficial
